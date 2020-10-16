@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Christina. I host my personal website on Notion:
+
+https://www.notion.so/cwlind/Christina-Willecke-Lindberg-b546c36a4dff42cbab1f9531ba21ec5c
+
+
+
 <!--
 **christinawlindberg/christinawlindberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
