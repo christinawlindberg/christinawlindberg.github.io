@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: yellow;
 	color: inherit;
 }
 
@@ -2894,6 +2894,8 @@ input, select, textarea {
 		background: #fff;
 		padding-right: 23em;
 	}
+
+
 
 /* Main */
 
