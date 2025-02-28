@@ -58,7 +58,6 @@ module ExternalPosts
       )
       doc.data['external_source'] = source_name
       doc.data['title'] = content[:title]
-      doc.data['thumbnail'] = content[:image]
       doc.data['feed_content'] = content[:content]
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
@@ -71,7 +70,7 @@ module ExternalPosts
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
-        # content[:published] = parse_published_date(post['published_date'])
+        content[:published] = parse_published_date(post['published_date'])
         create_document(site, src['name'], post['url'], content)
       end
     end
@@ -92,8 +91,6 @@ module ExternalPosts
       parsed_html = Nokogiri::HTML(html)
 
       title = parsed_html.at('head title')&.text.strip || ''
-      published = parsed_html.at('head meta[property="article:published_time"]')&.attr('content')
-      image = parsed_html.at('head meta[property="og:image"]')&.attr('content')
       description = parsed_html.at('head meta[name="description"]')&.attr('content')
       description ||= parsed_html.at('head meta[name="og:description"]')&.attr('content')
       description ||= parsed_html.at('head meta[property="og:description"]')&.attr('content')
@@ -104,9 +101,7 @@ module ExternalPosts
       {
         title: title,
         content: body_content,
-        summary: description,
-        published: parse_published_date(published),
-        image: image
+        summary: description
         # Note: The published date is now added in the fetch_from_urls method.
       }
     end

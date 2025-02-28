@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Research Projects
+title: projects
 permalink: /projects/
-description:
-nav: false
+description: A growing collection of your cool projects.
+nav: true
 nav_order: 3
-display_categories: [current, past]
+display_categories: [work, fun]
 horizontal: false
 ---
-
-My research focuses on using photometric surveys to characterize resolved stars and their line-of-sight extinction in nearby galaxies like the Magellanic Clouds and M31. Through multi-phase tracers like dust extinction, I study the structure of the interstellar medium (ISM). I am primarily interested in understanding how the multi-scale structure of the ISM changes as a function of metallicity and galactic environment, and how these changes influence star formation and the impact of stellar feedback.
-
-I am involved in several photometric surveys of nearby galaxies. Some of my recent work and ongoing projects from these collaborations are described below.
 
 <!-- pages/projects.md -->
 <div class="projects">
