@@ -92,8 +92,8 @@ ninja.data = [{
           description: "Modeling Sparse Asteroid Lightcurves with Gaussian Processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/asterogap/";
-            },},{id: "projects-inter-arm-star-formation",
-          title: 'Inter-Arm Star Formation',
+            },},{id: "projects-massive-stars",
+          title: 'Massive Stars',
           description: "Probing Small-Scale ISM Structure around Massive Stars in the Andromeda Galaxy (M31)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/m31/";
