@@ -2,7 +2,7 @@
 layout: page
 title: AsteroGaP
 description: Modeling Sparse Asteroid Lightcurves with Gaussian Processes
-img: assets/img/AsteroGaP_Example.png
+img: assets/img/gp_example.png
 importance: 2
 category: past
 related_publications: true
