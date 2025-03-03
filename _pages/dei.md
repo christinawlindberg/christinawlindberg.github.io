@@ -11,4 +11,4 @@ I am committed to helping improve diversity, equity, and inclusion in academia. 
 
 I currently serve as one of the JHU representative for the [Astronomy Graduate Congress](https://astro-grad-congress.github.io/), which provides a common platform for graduate students to discuss issues regarding graduate education in astronomy.
 
-I am also a senate member of the [Gender Minorities and Women in Physics (G-WiP)](https://imagine.jhu.edu/organizations/women-in-physics/) chapter at JHU (est. 2022).
+I am also a senate member of the [Gender Minorities and Women in Physics (G-WiP)](https://physics-astronomy.jhu.edu/about/gender-minorities-women-in-physics/) chapter at JHU (est. 2022).
