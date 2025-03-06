@@ -48,7 +48,7 @@ description: Below is a selection of the talks and posters I have presented at c
       Despite the close proximity of the Magellanic Clouds (XMC), we still do not have a comprehensive understanding of the 3D distribution of their ISM. With new, deep multi-wavelength observations from HST, the Scylla survey will enable us to constrain distances to dusty gas structures along nearly 100 lines of sight, allowing us to probe the overall distribution of the ISM within the XMC. As a test case, we present preliminary findings on the distances toward individual molecular clouds within the 30 Doradus region of the LMC. We find that, although these molecular clouds are close in projection, they are in fact separated by several kpc in distance. Coupled with observations from ALMA, these results indicate outflowing, CO-rich gas in the region.
       </p>
       <p>
-      Slides from talk presented at the XMC Workshop: Milky Clouds Over Manhattanat the Flatiron Institute (2024). 
+      Slides from talk presented at the XMC Workshop: Milky Clouds Over Manhattan at the Flatiron Institute (2024). 
       </p>
       </div>
       </div>
