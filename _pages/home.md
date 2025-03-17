@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Astrophysics Ph.D. Candidate at Johns Hopkins University
+subtitle: Astrophysics Ph.D. Candidate at Johns Hopkins University (she/her)
 
 profile:
   align: right
