@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Lindberg_CV.pdf";
           },
-        },{id: "post-hubble-captures-a-cosmic-cloudscape-nasa-science",
+        },{id: "post-hubble-examines-stars-ensconced-in-a-cocoon-of-gas-nasa-science",
+      
+        title: 'Hubble Examines Stars Ensconced in a Cocoon of Gas - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "This Hubble image features the open cluster of stars NGC 460 located in a region of the Small Magellanic Cloud, a satellite galaxy of the Milky Way.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/", "_blank");
+        
+      },
+    },{id: "post-hubble-captures-a-cosmic-cloudscape-nasa-science",
       
         title: 'Hubble Captures a Cosmic Cloudscape - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
