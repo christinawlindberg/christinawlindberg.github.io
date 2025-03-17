@@ -123,7 +123,7 @@ external_sources:
     posts:
       - url: https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/
       - url: https://science.nasa.gov/missions/hubble/hubble-studies-the-tarantula-nebulas-outskirts/
-      - url: https://esahubble.org/images/potw2511a/
+      # - url: https://esahubble.org/images/potw2511a/
       - url: https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/
 
 # -----------------------------------------------------------------------------
