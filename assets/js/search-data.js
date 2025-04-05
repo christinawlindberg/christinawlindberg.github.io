@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Lindberg_CV.pdf";
           },
-        },{id: "post-hubble-captures-a-neighbor-s-colorful-clouds-nasa-science",
+        },{id: "post-hubble-spots-stellar-sculptors-in-nearby-galaxy-nasa-science",
+      
+        title: 'Hubble Spots Stellar Sculptors in Nearby Galaxy - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "This Hubble image of the young star cluster NGC 346 combines observations at infrared, optical, and ultraviolet wavelengths.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://science.nasa.gov/missions/hubble/hubble-spots-stellar-sculptors-in-nearby-galaxy/", "_blank");
+        
+      },
+    },{id: "post-hubble-captures-a-neighbor-s-colorful-clouds-nasa-science",
       
         title: 'Hubble Captures a Neighbor’s Colorful Clouds - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
