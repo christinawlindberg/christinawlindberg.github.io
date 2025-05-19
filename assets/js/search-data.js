@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Lindberg_CV.pdf";
           },
-        },{id: "post-hubble-spots-stellar-sculptors-in-nearby-galaxy-nasa-science",
+        },{id: "post-hubble-captures-cotton-candy-clouds-nasa-science",
+      
+        title: 'Hubble Captures Cotton Candy Clouds - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "This Hubble image features a sparkling cloudscape from one of the Milky Way’s galactic neighbors, located 160,000 light-years away.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/", "_blank");
+        
+      },
+    },{id: "post-hubble-spots-stellar-sculptors-in-nearby-galaxy-nasa-science",
       
         title: 'Hubble Spots Stellar Sculptors in Nearby Galaxy - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
