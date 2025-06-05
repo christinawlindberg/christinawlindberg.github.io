@@ -14,7 +14,7 @@ I am one of the core builders for [Scylla](https://sites.google.com/view/scylla-
 
 All data and data products are publicly released on [MAST](https://doi.org/10.17909/8ads-wn75).
 
-I used the BEAST to measure individual masses, ages, metallicities, distances, and line-of-sight extinction for over 1.5 million stars from their multi-band SEDs.
+I used the Bayesian Extinction and Stellar Tool ([BEAST](https://beast.readthedocs.io/en/latest/)) to measure individual masses, ages, metallicities, distances, and line-of-sight extinction for over 1.5 million stars from their multi-band SEDs.
 With deep, high-resolution photometry, we resolve stars down to sub-solar masses (as low as 0.6 solar-masses), giving us unprecedented insight into the stellar content and formation history of these fields {% cite lindberg2025a %}. We also probe extinction across a wide range of ISM environments which will be used in future works to investigate variations in dust composition and constrain the fraction of CO-dark molecular gas at low metallicities. %we can gain a better understanding of the dust content in these galaxies.
 
 Currently, I am pioneering a new method for turning stellar extinctions into 2D extinction maps. These maps will allow us to trace the parsec-scale structure of the ISM across gas phases, providing some of the highest resolution maps of the ISM ever in external galaxies, independent of systematics associated with standard dust emission tracers.
