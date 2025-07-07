@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Lindberg_CV.pdf";
           },
-        },{id: "post-hubble-captures-cotton-candy-clouds-nasa-science",
+        },{id: "post-nasa-s-hubble-and-webb-telescopes-reveal-two-faces-of-a-star-cluster-duo-nasa-science",
+      
+        title: 'NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "These images from NASA&#39;s Hubble and Webb telescopes showcase an expanse of gas, dust, and stars of a duo of star clusters.",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/", "_blank");
+        
+      },
+    },{id: "post-hubble-captures-cotton-candy-clouds-nasa-science",
       
         title: 'Hubble Captures Cotton Candy Clouds - NASA Science <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
