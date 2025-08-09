@@ -121,6 +121,7 @@ related_blog_posts:
 external_sources:
   - name: NASA
     posts:
+      - url: https://science.nasa.gov/missions/hubble/hubble-captures-a-tarantula/
       - url: https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/
       - url: https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/
       - url: https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/
