@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: JC Ryan Post-Doctoral Fellow at the Center for Astrophysics | Harvard & Smithsonian (she/her)
+subtitle: Post-Doctoral Fellow at the CfA (she/her)
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a JC Ryan Fellow at the Center for Astrophysics | Harvard & Smithsonian, collaborating with Dr. [Catherine Zucker](https://catherinezucker.github.io/) to study the structure of the interstellar medium of nearby galaxies.
+I am a JC Ryan Fellow at the Center for Astrophysics - Harvard & Smithsonian, collaborating with Dr. [Catherine Zucker](https://catherinezucker.github.io/) to study the structure of the interstellar medium of nearby galaxies.
 
 Previously, I was an astrophysics Ph.D. candidate at Johns Hopkins University under the mentorship of Dr. [Claire Murray](https://cmurray-astro.github.io/) and other researchers in the [ISM* group](https://sites.google.com/view/ism-stsci/home) at STScI. I obtained a B.S. in physics and astronomy from the University of Washington working with Drs. [Jess Werk](https://www.werksquad.com/) and [Daniela Huppenkothen](https://huppenkothen.org/).
 
