@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-I'm originally from Denmark, but grew up in Germany and the United States. In my free time, I like to pursue more artistic (aka less computer-screen depedent) hobbies. I’ve recently started learning cello and, for the past few years, I've been singing soprano in the [JHU ECCO and Choral Society](https://sites.google.com/view/jhu-choral-society/home). In the meantime, I’m probably taking lots of pictures of my cat, Oliver (shown below).
+I'm originally from Denmark, but grew up in Germany and the United States. In my free time, I like to pursue more artistic (aka less computer-screen depedent) hobbies. I’ve recently started learning cello and, for the past few years, Throughout graduate school, I sang as a soprano in the [JHU ECCO and Choral Society](https://sites.google.com/view/jhu-choral-society/home). Since moving to Boston, I have sung in the [Harvard Radcliffe Chorus](https://youtu.be/GQlSyyEOcR0?si=_X9JXnrtoV84gfvQ), and am currently part of the [Tactus Ensemble](https://www.tactusensemble.com/). In the meantime, I’m probably taking lots of pictures of my cat, Oliver (shown below).
 
 ---
 
