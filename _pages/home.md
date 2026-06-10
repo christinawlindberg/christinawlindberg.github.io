@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a JC Ryan Prize Postdoctoral Fellow at the Center for Astrophysics - Harvard & Smithsonian. My main research interest is in the baryonic ecosystem of galaxies, specifically, how stars and the interstellar medium (ISM) interact on parsec-scales. 
+I am an inaugural JC Ryan Prize Fellow at the Center for Astrophysics - Harvard & Smithsonian. My main research interest is in the baryonic ecosystem of galaxies, specifically, how stars and the interstellar medium (ISM) interact on parsec-scales. 
 
 For my research, I leverage multi-band photometry from telescopes like HST and JWST characterize resolved stars and dust extinction in nearby galaxies. As a core member of the [Scylla survey](https://sites.google.com/view/scylla-hst/home?authuser=0) and PI of HST and JWST programs, I have fit and analyzed SEDs for millions of stars across galaxies like the SMC, LMC, M31, and other Local Group galaxies. With these data sets, we can construct parsec-scale dust extinction maps, provide a phase-agnostic tracer of the ISM.
 
