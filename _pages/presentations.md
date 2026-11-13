@@ -5,8 +5,6 @@ permalink: /presentations/
 description: Below is a selection of the talks and posters I have presented at conferences, workshops, and seminars. The full PDF for each presentation can be accessed by clicking on the corresponding image.
 ---
 
-
-
 <div class="container">
   <!-- Stack the columns on mobile by making one full-width and the other half-width -->
   <div class="row">
@@ -27,6 +25,7 @@ description: Below is a selection of the talks and posters I have presented at c
     A recording of the presentation can be viewed <a href="https://www.youtube.com/live/Ju6GesfiNUU?si=fbeiKIsbvYIS_wYA&t=1223">here</a>.
     </p>
     </div>
+
   </div>
 </div>
 ---
@@ -52,6 +51,7 @@ description: Below is a selection of the talks and posters I have presented at c
       </p>
       </div>
       </div>
+
 </div>
 ---
 
@@ -75,5 +75,6 @@ description: Below is a selection of the talks and posters I have presented at c
         Slides from plenary talk given at the <a href="https://www.phy.cuhk.edu.hk/events/conf2023/">Resolving Galaxy Ecosystems Across All Scales</a> conference in Hong Kong (2023).
         </p>
         </div>
+
   </div>
 </div>

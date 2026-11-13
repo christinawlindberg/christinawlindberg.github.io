@@ -7,7 +7,7 @@ title: Leadership and DEI
 
 Through graduate school, I was involved in various student leadership positions. From 2022-2023, I served as the president of the JHU Physics and Astronomy Graduate Students (PAGS) where I organized department initiatives regarding teaching, pay raises, and officing, representing over 100 graduate students in the program.
 
-I am committed to helping improve diversity, equity, and inclusion in academia. Following my term as PAGS President, I spear-headed efforts to investigate instances of examination bias and improve equity in department	examinations through discussions with department and university leadership.
+I am committed to helping improve diversity, equity, and inclusion in academia. Following my term as PAGS President, I spear-headed efforts to investigate instances of examination bias and improve equity in department examinations through discussions with department and university leadership.
 
 In the past, I served as one of the JHU representative for the [Astronomy Graduate Congress](https://astro-grad-congress.github.io/), which provides a common platform for graduate students to discuss issues regarding graduate education in astronomy.
 
